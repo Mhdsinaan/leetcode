@@ -1,11 +1,8 @@
-var searchInsert = function(nums, target) {
-    for (let i = 0; i < nums.length; i++) {
-        if (nums[i] >= target) {
-            return i;
-        }
-    }
-    return nums.length; 
-};
-console.log(searchInsert([1,7,20,30], 25
+function truncateSentence(s, k) {
+    const words = s.split(' ');
+    const truncatedWords = words.slice(0, k);
+    const result = truncatedWords.join(' ');
 
-)); 
+    return result;
+}
+console.log(truncateSentence("sinan muhammed areekode",2));
