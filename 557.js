@@ -4,3 +4,4 @@ var reverseWords = function(s) {
     var result = reversedWords.join(' ');
     return result;
 };
+console.log(reverseWords("hello world"));
