@@ -1,15 +1,16 @@
 ﻿public class Solution {
-    public bool IsPerfectSquare(int num) {
-        int sqrt=(int)Math.Sqrt(num);
-                      
-        return sqrt*sqrt==num;
+    public int SumOfTheDigitsOfHarshadNumber(int x) {
+    
+      if(x%2==0){
+        return x/2;
+      }else{
+        return-1;
+      }
         
     }
     static void Main(){
-        Solution solution = new Solution();
-        Console.WriteLine(solution.IsPerfectSquare(16));
-        Console.WriteLine(solution.IsPerfectSquare(14));
-        
-
+        Solution sol=new Solution();
+        Console.WriteLine(sol.SumOfTheDigitsOfHarshadNumber(10));
+         Console.WriteLine(sol.SumOfTheDigitsOfHarshadNumber(23));
     }
 }
