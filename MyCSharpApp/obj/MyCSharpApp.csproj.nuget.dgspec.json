@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\leetGit\\MyCsharpApp\\MyCSharpApp.csproj": {}
+    "C:\\Users\\HP\\Desktop\\leetGit\\MyCSharpApp\\MyCSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\leetGit\\MyCsharpApp\\MyCSharpApp.csproj": {
+    "C:\\Users\\HP\\Desktop\\leetGit\\MyCSharpApp\\MyCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\leetGit\\MyCsharpApp\\MyCSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\leetGit\\MyCSharpApp\\MyCSharpApp.csproj",
         "projectName": "MyCSharpApp",
-        "projectPath": "C:\\Users\\HP\\Desktop\\leetGit\\MyCsharpApp\\MyCSharpApp.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\leetGit\\MyCSharpApp\\MyCSharpApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\leetGit\\MyCsharpApp\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\leetGit\\MyCSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
