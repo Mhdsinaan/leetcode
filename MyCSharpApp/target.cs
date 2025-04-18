@@ -2,13 +2,13 @@ public class mark
 {
     public char NextGreatestLetter(char[] letters, char target)
     {
-        foreach(char ch in letters) // letters array loop cheyyunnu
+        foreach(char ch in letters)
         {
-            if(ch > target)         // target nekkal valiya letter kittiyal
-                return ch;          // ath return cheyyu
+            if(ch > target)         
+                return ch;          
         }
 
-        return letters[0]; // ellam target nekkal valuthallaengil wrap-around cheythu letters[0] return cheyyu
+        return letters[0]; 
     }
 
     static void Main()
