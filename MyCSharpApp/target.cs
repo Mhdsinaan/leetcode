@@ -14,6 +14,6 @@ public class mark
     static void Main()
     {
         mark m = new mark();
-        Console.WriteLine(m.NextGreatestLetter(new char[] { 'c', 'f', 'j' }, 'c')); // Output: f
+        Console.WriteLine(m.NextGreatestLetter(new char[] { 'c', 'f', 'j' }, 'c')); 
     }
 }
