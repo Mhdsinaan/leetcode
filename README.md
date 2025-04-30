@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Mhdsinaan/leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
