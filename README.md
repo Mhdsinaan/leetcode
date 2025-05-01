@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Mhdsinaan/leetcode/tree/master/0607-sales-person) |
+## String
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/Mhdsinaan/leetcode/tree/master/3019-furthest-point-from-origin) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/Mhdsinaan/leetcode/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
