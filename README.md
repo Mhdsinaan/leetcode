@@ -4,16 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Mhdsinaan/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -38,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/Mhdsinaan/leetcode/tree/master/3019-furthest-point-from-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
