@@ -7,9 +7,9 @@ public class Solution {
             if(price<minPrice){
                 minPrice=price;
             }else{
-                int profit = price - minPrice;
-                if (profit > maxProfit) {
-                    maxProfit = profit;
+                int profit=price-minPrice;
+                if(profit > maxProfit){
+                    maxProfit=profit;
 
                 } 
             }
