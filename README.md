@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Mhdsinaan/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/Mhdsinaan/leetcode/tree/master/3311-ant-on-the-boundary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Mhdsinaan/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
