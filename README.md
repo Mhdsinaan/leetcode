@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Mhdsinaan/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mhdsinaan/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mhdsinaan/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Mhdsinaan/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mhdsinaan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mhdsinaan/leetcode/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
