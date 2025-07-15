@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mhdsinaan/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Mhdsinaan/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mhdsinaan/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mhdsinaan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mhdsinaan/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
