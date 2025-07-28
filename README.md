@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mhdsinaan/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mhdsinaan/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Mhdsinaan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mhdsinaan/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/Mhdsinaan/leetcode/tree/master/3371-harshad-number) |
 ## Bit Manipulation
