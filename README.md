@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mhdsinaan/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mhdsinaan/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Mhdsinaan/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2235-capitalize-the-title](https://github.com/Mhdsinaan/leetcode/tree/master/2235-capitalize-the-title) |
 | [3019-furthest-point-from-origin](https://github.com/Mhdsinaan/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Counting
 |  |
