@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mhdsinaan/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mhdsinaan/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mhdsinaan/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mhdsinaan/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mhdsinaan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
