@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mhdsinaan/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mhdsinaan/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhdsinaan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mhdsinaan/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/Mhdsinaan/leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mhdsinaan/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mhdsinaan/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Mhdsinaan/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mhdsinaan/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Mhdsinaan/leetcode/tree/master/2235-capitalize-the-title) |
 | [3019-furthest-point-from-origin](https://github.com/Mhdsinaan/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Counting
