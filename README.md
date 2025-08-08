@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mhdsinaan/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mhdsinaan/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mhdsinaan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/Mhdsinaan/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mhdsinaan/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/Mhdsinaan/leetcode/tree/master/3371-harshad-number) |
 ## Bit Manipulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mhdsinaan/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Mhdsinaan/leetcode/tree/master/2235-capitalize-the-title) |
 | [3019-furthest-point-from-origin](https://github.com/Mhdsinaan/leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3055-maximum-odd-binary-number](https://github.com/Mhdsinaan/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mhdsinaan/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/Mhdsinaan/leetcode/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
