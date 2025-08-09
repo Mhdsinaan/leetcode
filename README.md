@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Mhdsinaan/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mhdsinaan/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1806-count-of-matches-in-tournament](https://github.com/Mhdsinaan/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mhdsinaan/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mhdsinaan/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mhdsinaan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Mhdsinaan/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1806-count-of-matches-in-tournament](https://github.com/Mhdsinaan/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhdsinaan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mhdsinaan/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/Mhdsinaan/leetcode/tree/master/3311-ant-on-the-boundary) |
