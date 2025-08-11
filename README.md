@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mhdsinaan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mhdsinaan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mhdsinaan/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mhdsinaan/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mhdsinaan/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhdsinaan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mhdsinaan/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mhdsinaan/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhdsinaan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/Mhdsinaan/leetcode/tree/master/3055-maximum-odd-binary-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Mhdsinaan/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
