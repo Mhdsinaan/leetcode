@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mhdsinaan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Mhdsinaan/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mhdsinaan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
@@ -120,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mhdsinaan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Mhdsinaan/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
