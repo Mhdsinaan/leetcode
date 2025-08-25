@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mhdsinaan/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mhdsinaan/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mhdsinaan/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mhdsinaan/leetcode/tree/master/0013-roman-to-integer) |
 | [0657-robot-return-to-origin](https://github.com/Mhdsinaan/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mhdsinaan/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Mhdsinaan/leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mhdsinaan/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Mhdsinaan/leetcode/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mhdsinaan/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
