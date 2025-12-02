@@ -1,6 +1,1 @@
-SELECT 
-    (SELECT DISTINCT TOP 1 salary
-     FROM Employee
-     WHERE salary < (SELECT MAX(salary) FROM Employee)
-     ORDER BY salary DESC) 
-AS SecondHighestSalary;
+select (select distinct Top 1 salary from Employee where salary < (select max(salary)from Employee) order by salary Desc) as SecondHighestSalary;
