@@ -1,6 +1,6 @@
 SELECT 
-    (SELECT DISTINCT salary
+    (SELECT DISTINCT TOP 1 salary
      FROM Employee
-     ORDER BY salary DESC
-     OFFSET 1 ROW FETCH NEXT 1 ROW ONLY) 
-     AS SecondHighestSalary;
+     WHERE salary < (SELECT MAX(salary) FROM Employee)
+     ORDER BY salary DESC) 
+AS SecondHighestSalary;
